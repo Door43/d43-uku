@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uku:home|Door43 (uku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uku|d43-uku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uku/archive/master.zip|d43-uku.zip]]
+
+**Recent Changes**
+{{changes>ns = uku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uku|Ethnologue data]]
+
